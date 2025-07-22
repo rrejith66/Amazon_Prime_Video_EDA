@@ -76,5 +76,5 @@ The dataset contains metadata of Amazon Prime Video titles, including:
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/amazon-prime-eda.git
-   cd amazon-prime-eda
+   git clone https://github.com/rrejith66/Amazon_Prime_Video_EDA.git
+   cd Amazon_Prime_Video_EDA
